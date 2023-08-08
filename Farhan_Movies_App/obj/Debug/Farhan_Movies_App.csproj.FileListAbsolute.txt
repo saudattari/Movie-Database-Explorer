@@ -1,0 +1,15 @@
+E:\1Visual_Repository\Farhan_Movies_App\Farhan_Movies_App\bin\Debug\Farhan_Movies_App.exe.config
+E:\1Visual_Repository\Farhan_Movies_App\Farhan_Movies_App\bin\Debug\Farhan_Movies_App.exe
+E:\1Visual_Repository\Farhan_Movies_App\Farhan_Movies_App\bin\Debug\Farhan_Movies_App.pdb
+E:\1Visual_Repository\Farhan_Movies_App\Farhan_Movies_App\bin\Debug\Newtonsoft.Json.dll
+E:\1Visual_Repository\Farhan_Movies_App\Farhan_Movies_App\bin\Debug\Newtonsoft.Json.xml
+E:\1Visual_Repository\Farhan_Movies_App\Farhan_Movies_App\obj\Debug\Farhan_Movies_App.csproj.AssemblyReference.cache
+E:\1Visual_Repository\Farhan_Movies_App\Farhan_Movies_App\obj\Debug\Farhan_Movies_App.csproj.SuggestedBindingRedirects.cache
+E:\1Visual_Repository\Farhan_Movies_App\Farhan_Movies_App\obj\Debug\Farhan_Movies_App.Form1.resources
+E:\1Visual_Repository\Farhan_Movies_App\Farhan_Movies_App\obj\Debug\Farhan_Movies_App.Properties.Resources.resources
+E:\1Visual_Repository\Farhan_Movies_App\Farhan_Movies_App\obj\Debug\Farhan_Movies_App.csproj.GenerateResource.cache
+E:\1Visual_Repository\Farhan_Movies_App\Farhan_Movies_App\obj\Debug\Farhan_Movies_App.csproj.CoreCompileInputs.cache
+E:\1Visual_Repository\Farhan_Movies_App\Farhan_Movies_App\obj\Debug\Farhan_Movies_App.csproj.CopyComplete
+E:\1Visual_Repository\Farhan_Movies_App\Farhan_Movies_App\obj\Debug\Farhan_Movies_App.exe
+E:\1Visual_Repository\Farhan_Movies_App\Farhan_Movies_App\obj\Debug\Farhan_Movies_App.pdb
+E:\1Visual_Repository\Farhan_Movies_App\Farhan_Movies_App\bin\Debug\Guna.UI2.dll
